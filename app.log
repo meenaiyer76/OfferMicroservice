@@ -1,0 +1,78 @@
+INFO  05:29:11 Application started. Press Ctrl+C to shut down.
+INFO  05:29:11 Application started. Press Ctrl+C to shut down.
+INFO  05:29:11 Hosting environment: Development
+INFO  05:29:11 Hosting environment: Development
+INFO  05:29:11 Content root path: C:\Users\Nithya\Documents\CorporateClassifieds\Offer\OfferMicroservice
+INFO  05:29:11 Content root path: C:\Users\Nithya\Documents\CorporateClassifieds\Offer\OfferMicroservice
+INFO  05:34:27 Application started. Press Ctrl+C to shut down.
+INFO  05:34:27 Application started. Press Ctrl+C to shut down.
+INFO  05:34:27 Hosting environment: Development
+INFO  05:34:27 Hosting environment: Development
+INFO  05:34:27 Content root path: C:\Users\Nithya\Documents\CorporateClassifieds\Offer\OfferMicroservice
+INFO  05:34:27 Content root path: C:\Users\Nithya\Documents\CorporateClassifieds\Offer\OfferMicroservice
+INFO  05:36:34 Application started. Press Ctrl+C to shut down.
+INFO  05:36:34 Application started. Press Ctrl+C to shut down.
+INFO  05:36:34 Hosting environment: Development
+INFO  05:36:34 Hosting environment: Development
+INFO  05:36:34 Content root path: C:\Users\Nithya\Documents\CorporateClassifieds\Offer\OfferMicroservice
+INFO  05:36:34 Content root path: C:\Users\Nithya\Documents\CorporateClassifieds\Offer\OfferMicroservice
+INFO  05:36:46 GetOfferList Method Called and result is displayed
+INFO  12:56:29 Application started. Press Ctrl+C to shut down.
+INFO  12:56:29 Application started. Press Ctrl+C to shut down.
+INFO  12:56:29 Hosting environment: Development
+INFO  12:56:29 Hosting environment: Development
+INFO  12:56:29 Content root path: C:\Users\Nithya\Documents\CorporateClassifieds\Offer\OfferMicroservice
+INFO  12:56:29 Content root path: C:\Users\Nithya\Documents\CorporateClassifieds\Offer\OfferMicroservice
+INFO  12:56:42 GetOfferList Method Called and result is displayed
+INFO  12:57:17 GetOfferById Method Called and result is not found
+INFO  01:02:07 GetOfferByOpenDate Method Called and result is not found
+INFO  01:02:38 GetOfferByOpenDate Method Called and result is not found
+INFO  01:02:53 GetOfferByOpenDate Method Called and result is not found
+INFO  04:35:16 Application started. Press Ctrl+C to shut down.
+INFO  04:35:16 Application started. Press Ctrl+C to shut down.
+INFO  04:35:16 Hosting environment: Development
+INFO  04:35:16 Hosting environment: Development
+INFO  04:35:16 Content root path: C:\Users\Nithya\Documents\CorporateClassifieds\Offer\OfferMicroservice
+INFO  04:35:16 Content root path: C:\Users\Nithya\Documents\CorporateClassifieds\Offer\OfferMicroservice
+INFO  04:35:29 GetOfferList Method Called and result is displayed
+INFO  04:43:14 Application started. Press Ctrl+C to shut down.
+INFO  04:43:14 Application started. Press Ctrl+C to shut down.
+INFO  04:43:14 Hosting environment: Development
+INFO  04:43:14 Hosting environment: Development
+INFO  04:43:14 Content root path: C:\Users\Nithya\Documents\CorporateClassifieds\Offer\OfferMicroservice
+INFO  04:43:14 Content root path: C:\Users\Nithya\Documents\CorporateClassifieds\Offer\OfferMicroservice
+INFO  04:43:21 GetOfferList Method Called and result is displayed
+INFO  05:49:49 Application started. Press Ctrl+C to shut down.
+INFO  05:49:49 Application started. Press Ctrl+C to shut down.
+INFO  05:49:49 Hosting environment: Development
+INFO  05:49:49 Hosting environment: Development
+INFO  05:49:49 Content root path: C:\Users\Nithya\Documents\CorporateClassifieds\Offer\OfferMicroservice
+INFO  05:49:49 Content root path: C:\Users\Nithya\Documents\CorporateClassifieds\Offer\OfferMicroservice
+INFO  05:51:27 New Offer Is posted
+INFO  05:52:28 GetOfferByOpenDate Method Called and result is not found
+INFO  05:55:20 Application started. Press Ctrl+C to shut down.
+INFO  05:55:20 Application started. Press Ctrl+C to shut down.
+INFO  05:55:20 Hosting environment: Development
+INFO  05:55:20 Hosting environment: Development
+INFO  05:55:20 Content root path: C:\Users\Nithya\Documents\CorporateClassifieds\Offer\OfferMicroservice
+INFO  05:55:20 Content root path: C:\Users\Nithya\Documents\CorporateClassifieds\Offer\OfferMicroservice
+INFO  10:44:17 Application started. Press Ctrl+C to shut down.
+INFO  10:44:17 Application started. Press Ctrl+C to shut down.
+INFO  10:44:17 Hosting environment: Development
+INFO  10:44:17 Hosting environment: Development
+INFO  10:44:17 Content root path: C:\Users\Nithya\Documents\CorporateClassifieds\Offer\OfferMicroservice
+INFO  10:44:17 Content root path: C:\Users\Nithya\Documents\CorporateClassifieds\Offer\OfferMicroservice
+INFO  10:45:10 GetOfferList Method Called and result is displayed
+INFO  10:46:00 GetOfferList Method Called and result is displayed
+INFO  12:30:26 Application started. Press Ctrl+C to shut down.
+INFO  12:30:26 Application started. Press Ctrl+C to shut down.
+INFO  12:30:26 Hosting environment: Development
+INFO  12:30:26 Hosting environment: Development
+INFO  12:30:26 Content root path: C:\Users\Nithya\Documents\CorporateClassifieds\Offer\OfferMicroservice
+INFO  12:30:26 Content root path: C:\Users\Nithya\Documents\CorporateClassifieds\Offer\OfferMicroservice
+INFO  12:40:00 Application started. Press Ctrl+C to shut down.
+INFO  12:40:00 Application started. Press Ctrl+C to shut down.
+INFO  12:40:00 Hosting environment: Development
+INFO  12:40:00 Hosting environment: Development
+INFO  12:40:00 Content root path: C:\Users\Nithya\Documents\CorporateClassifieds\Offer\OfferMicroservice
+INFO  12:40:00 Content root path: C:\Users\Nithya\Documents\CorporateClassifieds\Offer\OfferMicroservice

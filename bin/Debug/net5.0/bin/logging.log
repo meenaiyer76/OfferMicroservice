@@ -1,0 +1,60 @@
+INFO  12:35:55 Application started. Press Ctrl+C to shut down.
+INFO  12:35:55 Application started. Press Ctrl+C to shut down.
+INFO  12:35:55 Hosting environment: Development
+INFO  12:35:55 Hosting environment: Development
+INFO  12:35:55 Content root path: C:\Users\Nithya\Documents\CorporateClassifieds\Offer\OfferMicroservice
+INFO  12:35:55 Content root path: C:\Users\Nithya\Documents\CorporateClassifieds\Offer\OfferMicroservice
+INFO  12:59:30 Application started. Press Ctrl+C to shut down.
+INFO  12:59:30 Application started. Press Ctrl+C to shut down.
+INFO  12:59:30 Hosting environment: Development
+INFO  12:59:30 Hosting environment: Development
+INFO  12:59:30 Content root path: C:\Users\Nithya\Documents\CorporateClassifieds\Offer\OfferMicroservice
+INFO  12:59:30 Content root path: C:\Users\Nithya\Documents\CorporateClassifieds\Offer\OfferMicroservice
+ERROR 12:59:56 An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: Multiple constructors accepting all given argument types have been found in type 'OfferMicroservice.Controllers.OfferController'. There should only be one applicable constructor.
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.TryFindMatchingConstructor(Type instanceType, Type[] argumentTypes, ConstructorInfo& matchingConstructor, Nullable`1[]& parameterMap)
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.FindApplicableConstructor(Type instanceType, Type[] argumentTypes, ConstructorInfo& matchingConstructor, Nullable`1[]& matchingParameterMap)
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.CreateFactory(Type instanceType, Type[] argumentTypes)
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerActivatorProvider.CreateActivator(ControllerActionDescriptor descriptor)
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerFactoryProvider.CreateControllerFactory(ControllerActionDescriptor descriptor)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvokerCache.GetCachedResult(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvokerProvider.OnProvidersExecuting(ActionInvokerProviderContext context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionInvokerFactory.CreateInvoker(ActionContext actionContext)
+   at Microsoft.AspNetCore.Mvc.Routing.ActionEndpointFactory.<>c__DisplayClass7_0.<CreateRequestDelegate>b__0(HttpContext context)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.Invoke(HttpContext httpContext)
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+ERROR 12:59:56 An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: Multiple constructors accepting all given argument types have been found in type 'OfferMicroservice.Controllers.OfferController'. There should only be one applicable constructor.
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.TryFindMatchingConstructor(Type instanceType, Type[] argumentTypes, ConstructorInfo& matchingConstructor, Nullable`1[]& parameterMap)
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.FindApplicableConstructor(Type instanceType, Type[] argumentTypes, ConstructorInfo& matchingConstructor, Nullable`1[]& matchingParameterMap)
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.CreateFactory(Type instanceType, Type[] argumentTypes)
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerActivatorProvider.CreateActivator(ControllerActionDescriptor descriptor)
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerFactoryProvider.CreateControllerFactory(ControllerActionDescriptor descriptor)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvokerCache.GetCachedResult(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvokerProvider.OnProvidersExecuting(ActionInvokerProviderContext context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionInvokerFactory.CreateInvoker(ActionContext actionContext)
+   at Microsoft.AspNetCore.Mvc.Routing.ActionEndpointFactory.<>c__DisplayClass7_0.<CreateRequestDelegate>b__0(HttpContext context)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.Invoke(HttpContext httpContext)
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+INFO  01:22:32 Application started. Press Ctrl+C to shut down.
+INFO  01:22:32 Application started. Press Ctrl+C to shut down.
+INFO  01:22:32 Hosting environment: Development
+INFO  01:22:32 Hosting environment: Development
+INFO  01:22:32 Content root path: C:\Users\Nithya\Documents\CorporateClassifieds\Offer\OfferMicroservice
+INFO  01:22:32 Content root path: C:\Users\Nithya\Documents\CorporateClassifieds\Offer\OfferMicroservice
+INFO  04:09:45 Application started. Press Ctrl+C to shut down.
+INFO  04:09:45 Application started. Press Ctrl+C to shut down.
+INFO  04:09:45 Hosting environment: Development
+INFO  04:09:45 Hosting environment: Development
+INFO  04:09:45 Content root path: C:\Users\Nithya\Documents\CorporateClassifieds\Offer\OfferMicroservice
+INFO  04:09:45 Content root path: C:\Users\Nithya\Documents\CorporateClassifieds\Offer\OfferMicroservice
+INFO  04:10:08 GetOfferList Method Called and result is displayed
+INFO  04:10:53 GetOfferList Method Called and result is displayed
